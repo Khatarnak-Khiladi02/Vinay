@@ -2,7 +2,7 @@ from setuptools import setup
 with open("README.md","r") as fh:
     long_description =fh.read()
 setup(
-    name='topsis-K Vinay-101803142',
+    name='TOPSIS-K Vinay-101803142',
     version='0.0.1',
     description='Say hello!',
     py_modules=["sum"],
