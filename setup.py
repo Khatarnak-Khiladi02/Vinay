@@ -26,7 +26,7 @@ setup(
         ],
     },
     
-    url="https://github.com/likhita-karanam/topsis-K.Likhita-101803143",
+    url="https://github.com/Khatarnak-Khiladi02/Vinay",
     author="K.Vinay",
     author_email="kvinay_be18@thapar.edu",
 )
